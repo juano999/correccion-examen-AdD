@@ -1,6 +1,10 @@
 # EXAMEN-1B-ADD
 
-# Jorge Alba
+## Integrantes
+- Jorge Alba
+- Juan Bolaños
+- Bernabé Dávila
+- Byron Huaraca
 
 
 # Ejercicio 1
