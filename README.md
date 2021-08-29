@@ -55,5 +55,11 @@ Posteriormente ejecutamos el script de python para transferir los datos desde Co
 Por último comprobamos que los documentos se hayan cargado en Atlas, en la colección que especificamos  
 ![Screenshot_107](https://user-images.githubusercontent.com/58042023/131243896-3971f11e-bbba-4166-9e4d-ffac9765f63c.png)
 
+# Ejercicio 9
+Para obtener los datos que hemos generado a lo largo de este ejercicio como un documento de tipo "csv" utilizaremos la opción que nos da mongoDB Compass para exportar archivos 
+Existian conflictos cuando se exporto y algunos campos se generaron vacíos.
+![Screenshot_109](https://user-images.githubusercontent.com/58042023/131244047-560a37c3-3038-4d1e-b435-e0e32e4a82a2.png)
 
-
+# Ejercicio 10
+Al igual que el anterior paso utlizamos la opción de exportar para hacerlo como json. De igual forma existian conflictos asi que existen algunos campos vacíos.
+![Screenshot_110](https://user-images.githubusercontent.com/58042023/131244493-9ad9f7b3-e985-4854-9431-413cfcb7895e.png)
