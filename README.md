@@ -45,7 +45,15 @@ Para realizar el traspaso de datos de couchdb a mongodb se debe importar las her
 ![image](https://user-images.githubusercontent.com/66254573/127723785-c988d8e5-3466-491e-b298-ea015563fa86.png)
 
 # Ejercicio 8
-El proceso es realizar las importaciones correspondientes, posteriormente se realiza las conexiones tanto en mongodb como en mongodb atlas. Sin embargo mi cluster se encontraba pausado y no pude realizar la coexion por a misma razon no pude continuar con los siguientes ejercicios.
+El ejercicio solicita exportar los datos que tenemos en nuestro mongoDB Compass hacia nuestro cluster de mongoDB Atlas.
+Lo primero que se debe hacer es crear una base de datos y una colección nueva en mongoDB Atlas  
 
-![image](https://user-images.githubusercontent.com/66254573/127725235-1a03dc31-470d-44bd-89e2-bfa69779ac1b.png)
+![Screenshot_106](https://user-images.githubusercontent.com/58042023/131243811-bd3ec3df-5aee-458c-b358-3208180dcc1a.png)  
+Posteriormente ejecutamos el script de python para transferir los datos desde Compass hacia atlas, asegurandonos de que las conexiones hacia dichas bases de datos sean correctas.  
+![Screenshot_108](https://user-images.githubusercontent.com/58042023/131243867-da2aebc9-20e5-41e7-a053-c07da376d74e.png)
+
+Por último comprobamos que los documentos se hayan cargado en Atlas, en la colección que especificamos  
+![Screenshot_107](https://user-images.githubusercontent.com/58042023/131243896-3971f11e-bbba-4166-9e4d-ffac9765f63c.png)
+
+
 
